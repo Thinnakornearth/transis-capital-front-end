@@ -1,0 +1,49 @@
+@media screen and (min-device-width : 20px) and (max-width : 500px) {
+    .section4 {
+        width: 100% !important;
+      }
+}
+
+a {
+    color: currentColor;
+    display: inline-block;  /* For IE11/ MS Edge bug */
+    text-decoration: none;
+  }
+
+.section4 {
+    color: white;
+    width: 900px;
+    margin: auto;
+    text-align: center;
+  }
+.section4 h2{
+  font-size: 50px;
+}
+.content6 p {
+  font-size: 25px;
+}
+.deFiList {
+    margin-top: 2rem;
+}
+.deFiList ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+  
+.deFiList ul li {
+  list-style: none;
+  flex: 33.333333%; 
+  padding-bottom: 1.5rem;
+}
+
+
+
+.deFiList ul img {
+padding: 1rem;
+}
+
+.deFiList ul li:hover {
+  background-color: #3C565B;
+  border-radius: 100px;
+}
+
