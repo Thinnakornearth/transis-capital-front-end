@@ -1,6 +1,6 @@
 # Transis Capital Frontend (UI)
 
-This is a frontend project using the React framework for development. 
+This is a frontend project using the React framework (Javascript, HTML and CSS) for the development. 
 
 ## To run the project
 
